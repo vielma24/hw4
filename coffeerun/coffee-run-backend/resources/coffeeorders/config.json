@@ -32,6 +32,14 @@
 			"required": false,
 			"id": "flavor",
 			"order": 3
+		},
+		"strength": {
+			"name": "strength",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "strength",
+			"order": 4
 		}
 	}
 }
