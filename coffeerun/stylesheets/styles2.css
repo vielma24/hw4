@@ -1,0 +1,14 @@
+input[id="strength"] {
+  background-color: white;
+  border: 0;
+  color: #26af07;
+  font-weight: bold;
+}
+
+form[id="payment"] {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
