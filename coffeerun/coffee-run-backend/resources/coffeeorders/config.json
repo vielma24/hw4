@@ -32,62 +32,6 @@
 			"required": false,
 			"id": "flavor",
 			"order": 3
-		},
-		"title1": {
-			"name": "title1",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "title1",
-			"order": 4
-		},
-		"name": {
-			"name": "name",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "name",
-			"order": 5
-		},
-		"mail": {
-			"name": "mail",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "mail",
-			"order": 6
-		},
-		"pwd": {
-			"name": "pwd",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "pwd",
-			"order": 7
-		},
-		"card": {
-			"name": "card",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "card",
-			"order": 8
-		},
-		"number": {
-			"name": "number",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "number",
-			"order": 9
-		},
-		"date": {
-			"name": "date",
-			"type": "string",
-			"typeLabel": "string",
-			"required": false,
-			"id": "date",
-			"order": 10
 		}
 	}
 }

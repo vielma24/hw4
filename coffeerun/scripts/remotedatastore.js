@@ -33,9 +33,6 @@
   };
 
   RemoteDataStore.prototype.remove = function (key) {
-    $.ajax(this.serverUrl + '/' + key, {
-      type: 'DELETE'
-    });
     $.ajax({
       type : "DELETE",
       url  : "http://localhost:2403/coffeeorders/OBJECT_ID?emailAddress="+key,
